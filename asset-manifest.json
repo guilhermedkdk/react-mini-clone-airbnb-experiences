@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mini-clone-airbnb-experiences/static/css/main.7cb25e27.css",
+    "main.js": "/react-mini-clone-airbnb-experiences/static/js/main.c8ad6122.js",
+    "index.html": "/react-mini-clone-airbnb-experiences/index.html",
+    "main.7cb25e27.css.map": "/react-mini-clone-airbnb-experiences/static/css/main.7cb25e27.css.map",
+    "main.c8ad6122.js.map": "/react-mini-clone-airbnb-experiences/static/js/main.c8ad6122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb25e27.css",
+    "static/js/main.c8ad6122.js"
+  ]
+}
