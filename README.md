@@ -1,4 +1,4 @@
-<h1 align="center"> Página estática com React </h1>
+<h1 align="center"> Mini clone do Airbnb Experiences com React </h1>
 
 ## 📚 Aprendizados
 
